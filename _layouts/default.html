@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+    <head>
+
+        {% include head.html %}
+
+        {% include navbar.html %}
+
+        {% include tracking.html %}
+
+    </head>
+    <body class="animated fadeIn">
+
+        {{ content }}
+
+        {% include footer.html %}
+
+        {% include jsfiles.html %}
+
+    </body>
+</html>

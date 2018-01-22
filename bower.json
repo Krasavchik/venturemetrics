@@ -1,0 +1,16 @@
+{
+  "name": "demembrementimmobilier.fr",
+  "authors": [
+    "Krasavchik <matthieu.lavergne@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "v4.0.0-beta",
+    "jQuery": "^3.2.1",
+    "hover": "^2.1.1"
+  }
+}

@@ -1,0 +1,96 @@
+---
+layout: default
+title: 📶 Venture Metrics
+---
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-3">Venture Metrics<span class="text-info">.</span></h1>
+        <h2 class="text-info">
+            What the ecosystem says for acing your next fundraising round
+        </h2>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+            <p class="lead text-info">
+                Filters
+            </p>
+            <br>
+            <p class="text-info">
+                By Category
+            </p>
+            {% for category in site.data.categories %}
+                <div class="form-check">
+                    <input class="filter-box form-check-input" type="checkbox" data-filter-type="category" data-filter="{{ category.category }}" value="">
+                    <label class="form-check-label" for="defaultCheck1">
+                        {{ category.category }}
+                    </label>
+                </div>
+            {% endfor %}
+            <p class="text-info">
+                By Round Stage
+            </p>
+            {% for stage in site.data.stages %}
+                <div class="form-check">
+                    <input class="filter-box form-check-input" type="checkbox" data-filter-type="stage" data-filter="{{ stage.stage }}" value="">
+                    <label class="form-check-label" for="defaultCheck1">
+                        {{ stage.stage }}
+                    </label>
+                </div>
+            {% endfor %}
+            <p class="text-info">
+                By Area
+            </p>
+            {% for area in site.data.areas %}
+                <div class="form-check">
+                    <input class="filter-box filter-year form-check-input" type="checkbox" data-filter-type="area" data-filter="{{ area.area }}" value="">
+                    <label class="form-check-label" for="defaultCheck1">
+                        {{ area.area }}
+                    </label>
+                </div>
+            {% endfor %}
+            <p class="text-info">
+                By Year
+            </p>
+            {% for year in site.data.years %}
+                <div class="form-check">
+                    <input class="filter-box filter-year form-check-input" type="checkbox" data-filter-type="year" data-filter="{{ year.year }}" value="">
+                    <label class="form-check-label" for="defaultCheck1">
+                        {{ year.year }}
+                    </label>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="col-md-10 cardszone">
+            <div class="row">
+                {% for metric in site.data.metrics %}
+                    <div class="animated fadeIn col-md-6 gallery_product filter" data-filter-year="{{ metric.year }}" data-filter-stage="{{ metric.stage }}" data-filter-category="{{ metric.category}}" data-filter-area="{{ metric.area }}">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    {{ metric.metrics }}
+                                </h5>
+                                <h6 class="card-subtitle mb-2 text-muted">
+                                    Round: {{ metric.stage }}
+                                </h6>
+                                <p class="card-text">
+                                    <em>
+                                        {{ metric.quote }}
+                                    </em>
+                                </p>
+                                <blockquote class="blockquote mb-0">
+                                    <footer class="blockquote-footer">
+                                         <a href="{{ metric.source }}" target="_blank">{{ metric.author }}</a> from <cite title="Source Title"><a href="{{ metric.org_link }}" target="_blank">{{ metric.org }}</a></cite> ({{ metric.year }})
+                                    </footer>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
