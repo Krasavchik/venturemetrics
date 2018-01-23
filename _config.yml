@@ -14,10 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Venture Metrics"
+subtitle: "What the ecosystem says for acing your next fundraising round."
 description: > # this means to ignore newlines until "baseurl:"
-  "Boostrap+Jekyll boilerplate"
+  "Venture Metrics is an open-library grouping together what the ecosystem opinion about metrics for looking attractive when fundraising."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://venturemetrics.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MatthieuLav
 github_username:  krasavchik
 

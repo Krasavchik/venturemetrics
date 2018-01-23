@@ -14,7 +14,7 @@ title: 📶 Venture Metrics
 
 <div class="container">
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-2 d-none d-md-block">
             <p class="lead text-info">
                 Filters
             </p>
@@ -66,6 +66,9 @@ title: 📶 Venture Metrics
         </div>
         <div class="col-md-10 cardszone">
             <div class="row">
+                    <div id="emptyel" class="col-md-12" style="display:none;">
+                        No element returned for your selection.
+                    </div>
                 {% for metric in site.data.metrics %}
                     <div class="animated fadeIn col-md-6 gallery_product filter" data-filter-year="{{ metric.year }}" data-filter-stage="{{ metric.stage }}" data-filter-category="{{ metric.category}}" data-filter-area="{{ metric.area }}">
                         <div class="card">
@@ -90,6 +93,20 @@ title: 📶 Venture Metrics
                         </div>
                     </div>
                 {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card" style="background-color: #eefffc;">
+                        <div class="card-body">
+                            <h5 class="card-title">
+                                Contribute
+                            </h5>
+                            <p class="card-text">
+                                These open-library of Opinions and Criteria on Startup metrics needs to grow for bringing value to entrepreneurs out there. Feel free to bring your contributions to non-profit project. <a href="https://goo.gl/forms/C2EX6fjFTiTSZRsx2"> Contribute →</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

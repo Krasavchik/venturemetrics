@@ -2,6 +2,18 @@
   {
     "metrics": "Growth rate",
     "category": "Growth 📈",
+    "quote": "It really depends on the category/business. But for most companies, month-over-month organic growth is a very useful metric. Depending on the base, 20–50% MoM growth can be good — retention, referral, and churn are all things we look at, too.",
+    "author": "Aileen Lee",
+    "source": "https://www.rocketspace.com/tech-startups/top-startup-traction-metrics-considered-by-seed-round-investors",
+    "year": 2017,
+    "stage": "Seed 🌱",
+    "area": "🇺🇸",
+    "org": "Cowboy Ventures",
+    "org_link": "http://cowboy.vc/"
+  },
+  {
+    "metrics": "Growth rate",
+    "category": "Growth 📈",
     "quote": "Rapid growth is the single biggest factor for attracting venture capital. So what exactly is rapid growth? It depends based on your investment stage, but there are a few important benchmarks:\nPre-seed: Monthly growth of 15-20% or more\nSeed: Monthly growth of 15% or more\nSeries A: Monthly growth of 12% or more\nSeries B: Monthly growth of 10% or more\nSeries C: Monthly growth of 5% or more",
     "author": "Jeron Paul",
     "source": "https://www.capshare.com/blog/5-critical-metrics-raising-capital-vcs/",
@@ -22,18 +34,6 @@
     "area": "🇺🇸",
     "org": "Capshare",
     "org_link": "https://www.capshare.com"
-  },
-  {
-    "metrics": "Growth rate",
-    "category": "Growth 📈",
-    "quote": "It really depends on the category/business. But for most companies, month-over-month organic growth is a very useful metric. Depending on the base, 20–50% MoM growth can be good — retention, referral, and churn are all things we look at, too.",
-    "author": "Aileen Lee",
-    "source": "https://www.rocketspace.com/tech-startups/top-startup-traction-metrics-considered-by-seed-round-investors",
-    "year": 2017,
-    "stage": "Seed 🌱",
-    "area": "🇺🇸",
-    "org": "Cowboy Ventures",
-    "org_link": "http://cowboy.vc/"
   },
   {
     "metrics": "Monthly recurring revenue",

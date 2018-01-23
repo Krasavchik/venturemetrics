@@ -1,0 +1,19 @@
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="{{ page.title | escape }}">
+<meta itemprop="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+<meta itemprop="image" content="{{ site.url }}/assets/img/socialcard.jpg">
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="{{ site.url }}/assets/img/socialcard.jpg">
+<meta name="twitter:title" content="{{ page.title | escape }}">
+<meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+<meta name="twitter:creator" content="@MatthieuLav">
+<meta name="twitter:image:src" content="{{ site.url }}/assets/img/socialcard.jpg">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="{{ site.subtitle | escape }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ site.url }}" />
+<meta property="og:image" content="{{ site.url }}/assets/img/socialcard.jpg" />
+<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
+<meta property="og:site_name" content="{{ page.title | escape }}" />

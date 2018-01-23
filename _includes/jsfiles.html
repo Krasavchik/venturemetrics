@@ -39,12 +39,7 @@
                         }
                     }
                 }
-
-                if( show_me ){
-                    $(this).show();
-                } else{
-                    $(this).hide();
-                }
+                show_me ? $(this).show() : $(this).hide();
             });
         });
     });
