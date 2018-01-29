@@ -96,13 +96,13 @@
     "org_link": "http://www.pointninecap.com/"
   },
   {
-    "metrics": "Round Size",
-    "category": "Fundraising 👔",
-    "quote": "The most successful founders I see wait to raise — they wait to demonstrate traction and hit proof-points that represent real step-change for their companies — and when they do, they ask for a lower range. It's much better to call and say, “So I was going after $6 to $8M, but it looks like we're going to be able to do $12M given the strong investor interest.”",
+    "metrics": "Revenue",
+    "category": "Revenue 💰",
+    "quote": "in the hardware space, a year ago, $1M in pre-sales on Kickstarter with a great product idea was sometimes enough to raise a Series A. Now, investors are demanding pre-sales in the millions with a product that's either functional or actually in production given the risk of bringing hardware to market.",
     "author": "Josh Kopelman",
     "source": "http://firstround.com/review/what-the-seed-funding-boom-means-for-raising-a-series-a/",
     "year": 2015,
-    "stage": "Not Specified 🌐",
+    "stage": "Series A 🚀",
     "area": "🇺🇸",
     "org": "First Round",
     "org_link": "http://firstround.com/"
@@ -110,7 +110,31 @@
   {
     "metrics": "Revenue",
     "category": "Revenue 💰",
-    "quote": "in the hardware space, a year ago, $1M in pre-sales on Kickstarter with a great product idea was sometimes enough to raise a Series A. Now, investors are demanding pre-sales in the millions with a product that's either functional or actually in production given the risk of bringing hardware to market.",
+    "quote": "a top-quartile enterprise-focused VC firm may have a $1 million ARR hurdle for a SaaS deal, or that a top-quartile consumer investor may have a $2 million run-rate revenue hurdle for an e-commerce company.",
+    "author": "Nnamdi Okike",
+    "source": "https://techcrunch.com/2015/05/07/charting-a-path-from-seed-to-a-competitive-series-a-round/",
+    "year": 2015,
+    "stage": "Series A 🚀",
+    "area": "🇺🇸",
+    "org": "645 Ventures",
+    "org_link": "http://645ventures.com/"
+  },
+  {
+    "metrics": "Growth rate",
+    "category": "Growth 📈",
+    "quote": "The very, very best SaaS companies go from $1m to $10m ARR in 5 quarters or less. If you can grow 10% MoM or faster at $1m ARR, you are doing a lot of things right. If you can grow in the teens MoM after $1m ARR, you are going to kill it.",
+    "author": "Jason M. Lemkin",
+    "source": "https://www.quora.com/Is-a-40-Month-on-Month-MoM-growth-for-a-SaaS-business-considered-an-optimistic-forecast",
+    "year": 2015,
+    "stage": "Series A 🚀",
+    "area": "🇺🇸",
+    "org": "Saastr",
+    "org_link": "https://www.saastr.com/"
+  },
+  {
+    "metrics": "Round Size",
+    "category": "Fundraising 👔",
+    "quote": "The most successful founders I see wait to raise — they wait to demonstrate traction and hit proof-points that represent real step-change for their companies — and when they do, they ask for a lower range. It's much better to call and say, “So I was going after $6 to $8M, but it looks like we're going to be able to do $12M given the strong investor interest.”",
     "author": "Josh Kopelman",
     "source": "http://firstround.com/review/what-the-seed-funding-boom-means-for-raising-a-series-a/",
     "year": 2015,
@@ -192,18 +216,6 @@
     "org_link": "https://www.techstars.com/"
   },
   {
-    "metrics": "Revenue",
-    "category": "Revenue 💰",
-    "quote": "a top-quartile enterprise-focused VC firm may have a $1 million ARR hurdle for a SaaS deal, or that a top-quartile consumer investor may have a $2 million run-rate revenue hurdle for an e-commerce company.",
-    "author": "Nnamdi Okike",
-    "source": "https://techcrunch.com/2015/05/07/charting-a-path-from-seed-to-a-competitive-series-a-round/",
-    "year": 2015,
-    "stage": "Not Specified 🌐",
-    "area": "🇺🇸",
-    "org": "645 Ventures",
-    "org_link": "http://645ventures.com/"
-  },
-  {
     "metrics": "Growth rate",
     "category": "Growth 📈",
     "quote": "For SaaS companies with ARR > 1M$. The 40% rule is that your growth rate + your profit should add up to 40%. So, if you are growing at 20%, you should be generating a profit of 20%. If you are growing at 40%, you should be generating a 0% profit. If you are growing at 50%, you can lose 10%. If you are doing better than the 40% rule, that’s awesome.",
@@ -218,18 +230,6 @@
   {
     "metrics": "Growth rate",
     "category": "Growth 📈",
-    "quote": "The very, very best SaaS companies go from $1m to $10m ARR in 5 quarters or less. If you can grow 10% MoM or faster at $1m ARR, you are doing a lot of things right. If you can grow in the teens MoM after $1m ARR, you are going to kill it.",
-    "author": "Jason M. Lemkin",
-    "source": "https://www.quora.com/Is-a-40-Month-on-Month-MoM-growth-for-a-SaaS-business-considered-an-optimistic-forecast",
-    "year": 2015,
-    "stage": "Not Specified 🌐",
-    "area": "🇺🇸",
-    "org": "Saastr",
-    "org_link": "https://www.saastr.com/"
-  },
-  {
-    "metrics": "Growth rate",
-    "category": "Growth 📈",
     "quote": "If you can grow from $1M to $3M in one year, then do another triple and then double for a few years, I'd say that's still very impressive growth which should allow you to raise money at good terms.",
     "author": "Christoph Janz",
     "source": "https://www.quora.com/What-are-considered-attractive-month-over-month-growth-rates-in-terms-of-revenue-sign-ups-or-activities-for-SaaS-companies-in-2015",
@@ -240,8 +240,32 @@
     "org_link": "http://www.pointninecap.com/"
   },
   {
+    "metrics": "Growth rate",
+    "category": "Growth 📈",
+    "quote": "15-20% MRR growth number is a reasonably good target for post-Seed/pre-Series A SaaS startups to aim for.",
+    "author": "Tom Tunguz",
+    "source": "http://tomtunguz.com/mrr-growth/",
+    "year": 2014,
+    "stage": "Series A 🚀",
+    "area": "🇺🇸",
+    "org": "Redpoint Ventures",
+    "org_link": "http://www.redpoint.com/"
+  },
+  {
+    "metrics": "Revenue",
+    "category": "Revenue 💰",
+    "quote": "Ecommerce: $1 million monthly recurring revenue (MRR) is the key metric here.\nConsumer Apps: 50K daily active users & 25% month-over-month (MoM) user growth\nSaaS: $50-150K MRR & > 100% YoY growth on MRR or annual run rate (ARR) basis\nMarketplace: $500K-$1 million in monthly gross market volume (GMV) & 20-30% MoM growth in GMV & Liquidity: > 10% demand/supply ratio & Transaction velocity: the time it takes to have a transaction clear should be decreasing.",
+    "author": "Shriram Bhashyam",
+    "source": "https://equityzen.com/blog/metrics-required-for-series-a/",
+    "year": 2014,
+    "stage": "Series A 🚀",
+    "area": "🇺🇸",
+    "org": "Equity Zen",
+    "org_link": "https://equityzen.com"
+  },
+  {
     "metrics": "Net Churn",
-    "category": "Retention 🧡",
+    "category": "Retention ❤",
     "quote": "If your Net Revenue Churn is high (above 2% per month) it is an indicator that there is something wrong in your business. At 2% monthly churn, you are losing about 22% of your revenue every year.",
     "author": "David Skok",
     "source": "http://www.forentrepreneurs.com/saas-metrics-2/",
@@ -276,28 +300,16 @@
     "org_link": "https://www.matrixpartners.com/"
   },
   {
-    "metrics": "Growth rate",
-    "category": "Growth 📈",
-    "quote": "15-20% MRR growth number is a reasonably good target for post-Seed/pre-Series A SaaS startups to aim for.",
-    "author": "Tom Tunguz",
-    "source": "http://tomtunguz.com/mrr-growth/",
-    "year": 2014,
+    "metrics": "CAC Payback Period",
+    "category": "Profitability 📊",
+    "quote": "create (acquistion) channels that pay back within 6-12 months",
+    "author": "Dave McClure",
+    "source": "http://freddestin.com/2013/07/mcclure-growth-hacking-through-series-a-crunch.html",
+    "year": 2013,
     "stage": "Not Specified 🌐",
     "area": "🇺🇸",
-    "org": "Redpoint Ventures",
-    "org_link": "http://www.redpoint.com/"
-  },
-  {
-    "metrics": "Revenue",
-    "category": "Revenue 💰",
-    "quote": "Ecommerce: $1 million monthly recurring revenue (MRR) is the key metric here.\nConsumer Apps: 50K daily active users & 25% month-over-month (MoM) user growth\nSaaS: $50-150K MRR & > 100% YoY growth on MRR or annual run rate (ARR) basis\nMarketplace: $500K-$1 million in monthly gross market volume (GMV) & 20-30% MoM growth in GMV & Liquidity: > 10% demand/supply ratio & Transaction velocity: the time it takes to have a transaction clear should be decreasing.",
-    "author": "Shriram Bhashyam",
-    "source": "https://equityzen.com/blog/metrics-required-for-series-a/",
-    "year": 2014,
-    "stage": "Series A 🚀",
-    "area": "🇺🇸",
-    "org": "Equity Zen",
-    "org_link": "https://equityzen.com"
+    "org": "500 Startups",
+    "org_link": "https://500.co/"
   },
   {
     "metrics": "Revenue",
@@ -324,25 +336,13 @@
     "org_link": "https://www.ivp.com/"
   },
   {
-    "metrics": "CAC Payback Period",
-    "category": "Profitability 📊",
-    "quote": "create (acquistion) channels that pay back within 6-12 months",
-    "author": "Dave McClure",
-    "source": "http://freddestin.com/2013/07/mcclure-growth-hacking-through-series-a-crunch.html",
-    "year": 2013,
-    "stage": "Not Specified 🌐",
-    "area": "🇺🇸",
-    "org": "500 Startups",
-    "org_link": "https://500.co/"
-  },
-  {
     "metrics": "Revenue",
     "category": "Revenue 💰",
     "quote": "We have funded SaaS companies that are pre-revenue all the way up to an MRR of $100k.",
     "author": "David Skok",
     "source": "https://www.quora.com/What-are-average-revenues-MRR-or-ARR-for-SaaS-companies-at-the-time-of-the-Series-A",
     "year": 2012,
-    "stage": "Not Specified 🌐",
+    "stage": "Series A 🚀",
     "area": "🇺🇸",
     "org": "Matrix Partner",
     "org_link": "https://www.matrixpartners.com/"
@@ -354,7 +354,7 @@
     "author": "Paul Graham",
     "source": "http://www.paulgraham.com/growth.html",
     "year": 2012,
-    "stage": "Not Specified 🌐",
+    "stage": "Seed 🌱",
     "area": "🇺🇸",
     "org": "Y Combinator",
     "org_link": "http://www.ycombinator.com/"
@@ -366,7 +366,7 @@
     "author": "David Skok",
     "source": "http://www.forentrepreneurs.com/sales-complexity/",
     "year": 2010,
-    "stage": "Not Specified 🌐",
+    "stage": "Series A 🚀",
     "area": "🇺🇸",
     "org": "Matrix Partner",
     "org_link": "https://www.matrixpartners.com/"

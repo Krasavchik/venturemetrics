@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Venture Metrics"
-subtitle: "What the ecosystem says for acing your next fundraising round."
+subtitle: "What the ecosystem says for acing your next fundraising round"
 description: > # this means to ignore newlines until "baseurl:"
   "Venture Metrics is an open-library grouping together what the ecosystem opinion about metrics for looking attractive when fundraising."
 baseurl: "" # the subpath of your site, e.g. /blog
