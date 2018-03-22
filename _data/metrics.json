@@ -252,16 +252,16 @@
     "org_link": "http://www.redpoint.com/"
   },
   {
-    "metrics": "Revenue",
-    "category": "Revenue 💰",
-    "quote": "Ecommerce: $1 million monthly recurring revenue (MRR) is the key metric here.\nConsumer Apps: 50K daily active users & 25% month-over-month (MoM) user growth\nSaaS: $50-150K MRR & > 100% YoY growth on MRR or annual run rate (ARR) basis\nMarketplace: $500K-$1 million in monthly gross market volume (GMV) & 20-30% MoM growth in GMV & Liquidity: > 10% demand/supply ratio & Transaction velocity: the time it takes to have a transaction clear should be decreasing.",
-    "author": "Shriram Bhashyam",
-    "source": "https://equityzen.com/blog/metrics-required-for-series-a/",
-    "year": 2014,
-    "stage": "Series A 🚀",
+    "metrics": "Quick Ratio",
+    "category": "Retention ❤",
+    "quote": "A quick ratio of 1.5 was about average for a consumer business. For recurring revenue however, this is not so good. For enterprise SaaS companies, we prefer to invest in companies with a quick ratio greater than 4. If you have a quick ratio of <2 then your churn is probably too high and you have something to fix.",
+    "author": "Jonathan Hsu",
+    "source": "https://medium.com/swlh/diligence-at-social-capital-part-2-accounting-for-revenue-growth-551fa07dd972",
+    "year": 2015,
+    "stage": "Not Specified 🌐",
     "area": "🇺🇸",
-    "org": "Equity Zen",
-    "org_link": "https://equityzen.com"
+    "org": "Social Capital",
+    "org_link": "http://www.socialcapital.com/"
   },
   {
     "metrics": "Net Churn",
@@ -338,14 +338,14 @@
   {
     "metrics": "Revenue",
     "category": "Revenue 💰",
-    "quote": "We have funded SaaS companies that are pre-revenue all the way up to an MRR of $100k.",
-    "author": "David Skok",
-    "source": "https://www.quora.com/What-are-average-revenues-MRR-or-ARR-for-SaaS-companies-at-the-time-of-the-Series-A",
-    "year": 2012,
+    "quote": "Ecommerce: $1 million monthly recurring revenue (MRR) is the key metric here.\nConsumer Apps: 50K daily active users & 25% month-over-month (MoM) user growth\nSaaS: $50-150K MRR & > 100% YoY growth on MRR or annual run rate (ARR) basis\nMarketplace: $500K-$1 million in monthly gross market volume (GMV) & 20-30% MoM growth in GMV & Liquidity: > 10% demand/supply ratio & Transaction velocity: the time it takes to have a transaction clear should be decreasing.",
+    "author": "Shriram Bhashyam",
+    "source": "https://equityzen.com/blog/metrics-required-for-series-a/",
+    "year": 2014,
     "stage": "Series A 🚀",
     "area": "🇺🇸",
-    "org": "Matrix Partner",
-    "org_link": "https://www.matrixpartners.com/"
+    "org": "Equity Zen",
+    "org_link": "https://equityzen.com"
   },
   {
     "metrics": "Growth rate",
@@ -366,6 +366,18 @@
     "author": "David Skok",
     "source": "http://www.forentrepreneurs.com/sales-complexity/",
     "year": 2010,
+    "stage": "Series A 🚀",
+    "area": "🇺🇸",
+    "org": "Matrix Partner",
+    "org_link": "https://www.matrixpartners.com/"
+  },
+  {
+    "metrics": "Revenue",
+    "category": "Revenue 💰",
+    "quote": "We have funded SaaS companies that are pre-revenue all the way up to an MRR of $100k.",
+    "author": "David Skok",
+    "source": "https://www.quora.com/What-are-average-revenues-MRR-or-ARR-for-SaaS-companies-at-the-time-of-the-Series-A",
+    "year": 2012,
     "stage": "Series A 🚀",
     "area": "🇺🇸",
     "org": "Matrix Partner",
